@@ -1,0 +1,36 @@
+@charset "UTF-8";
+.container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+header h1 {
+	color: #364E39;
+	text-align: center;
+	font-size: 40px;
+}
+nav {
+	text-align: center;
+	font-size: 20px;
+}
+nav a:link  {
+	color: #767524;
+	text-decoration: none;
+}
+nav a:hover {
+	color: #719850;
+}
+.heroimg {
+	height: 360px;
+	background-color: #FB5355;
+	background-image: url(3%E6%B2%92%E6%9C%89%E5%90%8D%E5%AD%97%E7%9A%84%E4%B8%96%E7%95%8C.jpg);
+	background-position: center center;
+	background-size: cover;
+}
+article h2 {
+	background-color: #AEAE5D;
+	border-radius: 10px;
+	margin-left: 0px;
+	padding-left: 10px;
+	line-height: 34px;
+}
